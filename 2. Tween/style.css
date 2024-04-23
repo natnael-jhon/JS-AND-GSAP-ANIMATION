@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: rgb(36, 32, 32);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #1b1b1b;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  background: #ffa31a;
+  border-radius: 100px;
+}
