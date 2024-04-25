@@ -1,6 +1,8 @@
 # Fun with Animation: GSAP and JavaScript Adventures
 
-![Animation](https://geeksgod.com/wp-content/uploads/2023/04/free-udemy-course-coupon-228.jpg)
+![Animation](https://geeksgod.com/wp-content/uploads/2023/04/free-udemy-course-coupon-228.jpg)   
+
+
 Welcome to "Fun with Animation: GSAP and JavaScript Adventures"!
 
 This repository is a playful exploration of animation techniques using GSAP (GreenSock Animation Platform) and JavaScript.
